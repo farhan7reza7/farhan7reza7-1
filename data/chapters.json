@@ -1,0 +1,801 @@
+[
+  {
+    "id": 1,
+    "name": "الفَاتِحَة",
+    "transHi": "अल फातिहा",
+    "transPr": "آیه‌های ابتدایی",
+    "transEn": "The Opening"
+  },
+  {
+    "id": 2,
+    "name": "البَقَرَة",
+    "transHi": "अल बकरा",
+    "transPr": "گاو",
+    "transEn": "The Cow"
+  },
+  {
+    "id": 3,
+    "name": "آل عِمرَان",
+    "transHi": "आले इमरान",
+    "transPr": "خاندان عمران",
+    "transEn": "The Family of Imran"
+  },
+  {
+    "id": 4,
+    "name": "النِّسَاء",
+    "transHi": "अन निसा",
+    "transPr": "زنان",
+    "transEn": "The Women"
+  },
+  {
+    "id": 5,
+    "name": "المَائدة",
+    "transHi": "अल माइदाह",
+    "transPr": "سفره",
+    "transEn": "The Table Spread"
+  },
+  {
+    "id": 6,
+    "name": "الأنعَام",
+    "transHi": "अल अनाम",
+    "transPr": "انعام",
+    "transEn": "The Cattle"
+  },
+  {
+    "id": 7,
+    "name": "الأعرَاف",
+    "transHi": "अल आराफ",
+    "transPr": "آیه‌های اعراف",
+    "transEn": "The Heights"
+  },
+  {
+    "id": 8,
+    "name": "الأنفَال",
+    "transHi": "अल अनफाल",
+    "transPr": "انفال",
+    "transEn": "The Spoils of War"
+  },
+  {
+    "id": 9,
+    "name": "التوبَة",
+    "transHi": "अत तौबा",
+    "transPr": "توبه",
+    "transEn": "The Repentance"
+  },
+  {
+    "id": 10,
+    "name": "يونُس",
+    "transHi": "यूनुस",
+    "transPr": "یونس",
+    "transEn": "Jonah"
+  },
+  {
+    "id": 11,
+    "name": "هود",
+    "transHi": "हूद",
+    "transPr": "هود",
+    "transEn": "Hud"
+  },
+  {
+    "id": 12,
+    "name": "يوسُف",
+    "transHi": "यूसुफ",
+    "transPr": "یوسف",
+    "transEn": "Joseph"
+  },
+  {
+    "id": 13,
+    "name": "الرَّعد",
+    "transHi": "अर राद",
+    "transPr": "رعد",
+    "transEn": "The Thunder"
+  },
+  {
+    "id": 14,
+    "name": "إبراهيم",
+    "transHi": "इब्राहीम",
+    "transPr": "ابراهیم",
+    "transEn": "Abraham"
+  },
+  {
+    "id": 15,
+    "name": "الحِجر",
+    "transHi": "अल हिज्र",
+    "transPr": "حجر",
+    "transEn": "The Rock"
+  },
+  {
+    "id": 16,
+    "name": "النَّحل",
+    "transHi": "अन नहल",
+    "transPr": "نحل",
+    "transEn": "The Bee"
+  },
+  {
+    "id": 17,
+    "name": "الإسرَاء",
+    "transHi": "अल इसरा",
+    "transPr": "معراج",
+    "transEn": "The Night Journey"
+  },
+  {
+    "id": 18,
+    "name": "الكَهف",
+    "transHi": "अल कहफ",
+    "transPr": "غار",
+    "transEn": "The Cave"
+  },
+  {
+    "id": 19,
+    "name": "مَريَم",
+    "transHi": "मरयम",
+    "transPr": "مریم",
+    "transEn": "Mary"
+  },
+  {
+    "id": 20,
+    "name": "طه",
+    "transHi": "ताहा",
+    "transPr": "طه",
+    "transEn": "Ta-Ha"
+  },
+  {
+    "id": 21,
+    "name": "الأنبيَاء",
+    "transHi": "अल अम्बिया",
+    "transPr": "انبیا",
+    "transEn": "The Prophets"
+  },
+  {
+    "id": 22,
+    "name": "الحَجّ",
+    "transHi": "अल हज्ज",
+    "transPr": "حج",
+    "transEn": "The Pilgrimage"
+  },
+  {
+    "id": 23,
+    "name": "المُؤمِنُون",
+    "transHi": "अल मुएमिनून",
+    "transPr": "مومنون",
+    "transEn": "The Believers"
+  },
+  {
+    "id": 24,
+    "name": "النُّور",
+    "transHi": "अन नूर",
+    "transPr": "نور",
+    "transEn": "The Light"
+  },
+  {
+    "id": 25,
+    "name": "الفُرقان",
+    "transHi": "अल फुर्कान",
+    "transPr": "فرقان",
+    "transEn": "The Criterion"
+  },
+  {
+    "id": 26,
+    "name": "الشُّعَرَاء",
+    "transHi": "अल शुआरा",
+    "transPr": "شاعران",
+    "transEn": "The Poets"
+  },
+  {
+    "id": 27,
+    "name": "النَّمل",
+    "transHi": "अन नमल",
+    "transPr": "مورچه‌ها",
+    "transEn": "The Ant"
+  },
+  {
+    "id": 28,
+    "name": "القَصَص",
+    "transHi": "अल कसस",
+    "transPr": "قصه‌ها",
+    "transEn": "The Stories"
+  },
+  {
+    "id": 29,
+    "name": "العَنكبوت",
+    "transHi": "अल अंकबूत",
+    "transPr": "عنکبوت",
+    "transEn": "The Spider"
+  },
+  {
+    "id": 30,
+    "name": "الرُّوم",
+    "transHi": "अर रूम",
+    "transPr": "رمیان",
+    "transEn": "The Romans"
+  },
+  {
+    "id": 31,
+    "name": "لقمَان",
+    "transHi": "लूकमान",
+    "transPr": "لقمان",
+    "transEn": "Luqman"
+  },
+  {
+    "id": 32,
+    "name": "السَّجدَة",
+    "transHi": "अस सजदा",
+    "transPr": "سجده",
+    "transEn": "The Prostration"
+  },
+  {
+    "id": 33,
+    "name": "الأحزَاب",
+    "transHi": "अल अहजाब",
+    "transPr": "پرده‌ها",
+    "transEn": "The Combined Forces"
+  },
+  {
+    "id": 34,
+    "name": "سَبَأ",
+    "transHi": "सबा",
+    "transPr": "سبا",
+    "transEn": "Sheba"
+  },
+  {
+    "id": 35,
+    "name": "فَاطِر",
+    "transHi": "फातिर",
+    "transPr": "فاطر",
+    "transEn": "The Originator"
+  },
+  {
+    "id": 36,
+    "name": "يس",
+    "transHi": "यस",
+    "transPr": "یس",
+    "transEn": "Yaseen"
+  },
+  {
+    "id": 37,
+    "name": "الصَّافات",
+    "transHi": "अस साफात",
+    "transPr": "صافات",
+    "transEn": "Those who set the Ranks"
+  },
+  {
+    "id": 38,
+    "name": "ص",
+    "transHi": "साद",
+    "transPr": "ص",
+    "transEn": "Sad"
+  },
+  {
+    "id": 39,
+    "name": "الزُّمَر",
+    "transHi": "अल जुमल",
+    "transPr": "زمر",
+    "transEn": "The Groups"
+  },
+  {
+    "id": 40,
+    "name": "غَافِر",
+    "transHi": "गफिर",
+    "transPr": "غافر",
+    "transEn": "The Forgiver"
+  },
+  {
+    "id": 41,
+    "name": "فُصِّلَت",
+    "transHi": "फुस्सिलत",
+    "transPr": "فصلت",
+    "transEn": "Explained in Detail"
+  },
+  {
+    "id": 42,
+    "name": "الشُّورَى",
+    "transHi": "अश शुरा",
+    "transPr": "شورها",
+    "transEn": "The Consultation"
+  },
+  {
+    "id": 43,
+    "name": "الزُّخْرُف",
+    "transHi": "अल झुखरूफ",
+    "transPr": "زخرف",
+    "transEn": "The Ornaments of Gold"
+  },
+  {
+    "id": 44,
+    "name": "الدُّخَان",
+    "transHi": "अद दुखान",
+    "transPr": "دخان",
+    "transEn": "The Smoke"
+  },
+  {
+    "id": 45,
+    "name": "الجَاثية",
+    "transHi": "अल जाथियाह",
+    "transPr": "جاثیه",
+    "transEn": "The Crouching"
+  },
+  {
+    "id": 46,
+    "name": "الأحقاف",
+    "transHi": "अल अहकाफ",
+    "transPr": "احقاف",
+    "transEn": "The Wind-Curved Sandhills"
+  },
+  {
+    "id": 47,
+    "name": "محمد",
+    "transHi": "मुहम्मद",
+    "transPr": "محمد",
+    "transEn": "Muhammad"
+  },
+  {
+    "id": 48,
+    "name": "الفَتح",
+    "transHi": "अल फ़तह",
+    "transPr": "فتح",
+    "transEn": "The Victory"
+  },
+  {
+    "id": 49,
+    "name": "الحُجرَات",
+    "transHi": "अल हुजरात",
+    "transPr": "حجرات",
+    "transEn": "The Rooms"
+  },
+  {
+    "id": 50,
+    "name": "ق",
+    "transHi": "क़ाफ",
+    "transPr": "ق",
+    "transEn": "Qaf"
+  },
+  {
+    "id": 51,
+    "name": "الذَّاريَات",
+    "transHi": "अज़् जारियात",
+    "transPr": "ذاريات",
+    "transEn": "The Winnowing Winds"
+  },
+  {
+    "id": 52,
+    "name": "الطُّور",
+    "transHi": "अत तूर",
+    "transPr": "طور",
+    "transEn": "The Mount"
+  },
+  {
+    "id": 53,
+    "name": "النَّجْم",
+    "transHi": "अन नज्म",
+    "transPr": "نجم",
+    "transEn": "The Star"
+  },
+  {
+    "id": 54,
+    "name": "القَمَر",
+    "transHi": "अल कमर",
+    "transPr": "قمر",
+    "transEn": "The Moon"
+  },
+  {
+    "id": 55,
+    "name": "الرَّحْمَٰن",
+    "transHi": "अर रहमान",
+    "transPr": "رحمان",
+    "transEn": "The Beneficent"
+  },
+  {
+    "id": 56,
+    "name": "الوَاقِعَة",
+    "transHi": "अल वाकिअह",
+    "transPr": "واقعه",
+    "transEn": "The Inevitable"
+  },
+  {
+    "id": 57,
+    "name": "الحَديد",
+    "transHi": "अल हदीद",
+    "transPr": "حديد",
+    "transEn": "The Iron"
+  },
+  {
+    "id": 58,
+    "name": "المُجَادلَة",
+    "transHi": "अल मुजादिलाह",
+    "transPr": "مجادله",
+    "transEn": "The Pleading Woman"
+  },
+  {
+    "id": 59,
+    "name": "الحَشْر",
+    "transHi": "अल हाश्र",
+    "transPr": "حشر",
+    "transEn": "The Exile"
+  },
+  {
+    "id": 60,
+    "name": "المُمْتَحَنَة",
+    "transHi": "अल मुमतहन",
+    "transPr": "ممتحنه",
+    "transEn": "She that is to be examined"
+  },
+  {
+    "id": 61,
+    "name": "الصَّف",
+    "transHi": "अस सफ",
+    "transPr": "صف",
+    "transEn": "The Ranks"
+  },
+  {
+    "id": 62,
+    "name": "الجُمُعَة",
+    "transHi": "अल जुमुअह",
+    "transPr": "جمعه",
+    "transEn": "The Congregation"
+  },
+  {
+    "id": 63,
+    "name": "المُنَافِقُون",
+    "transHi": "अल मुनाफिकून",
+    "transPr": "منافقون",
+    "transEn": "The Hypocrites"
+  },
+  {
+    "id": 64,
+    "name": "التَّغَابُن",
+    "transHi": "अत तगाबुन",
+    "transPr": "تغابن",
+    "transEn": "The Mutual Disillusion"
+  },
+  {
+    "id": 65,
+    "name": "الطَّلاق",
+    "transHi": "अत तालाक़",
+    "transPr": "طلاق",
+    "transEn": "The Divorce"
+  },
+  {
+    "id": 66,
+    "name": "التَّحْرِيم",
+    "transHi": "अत तहरीम",
+    "transPr": "تحريم",
+    "transEn": "The Prohibition"
+  },
+  {
+    "id": 67,
+    "name": "المُلْك",
+    "transHi": "अल मुल्क",
+    "transPr": "ملک",
+    "transEn": "The Sovereignty"
+  },
+  {
+    "id": 68,
+    "name": "القَلَم",
+    "transHi": "अल क़लम",
+    "transPr": "قلم",
+    "transEn": "The Pen"
+  },
+  {
+    "id": 69,
+    "name": "الحَاقَّة",
+    "transHi": "अल हाक्का",
+    "transPr": "حاقه",
+    "transEn": "The Reality"
+  },
+  {
+    "id": 70,
+    "name": "المَعَارِج",
+    "transHi": "अल माअरिज",
+    "transPr": "معارج",
+    "transEn": "The Ascending Stairways"
+  },
+  {
+    "id": 71,
+    "name": "نُوح",
+    "transHi": "नूह",
+    "transPr": "نوح",
+    "transEn": "Noah"
+  },
+  {
+    "id": 72,
+    "name": "الجِنّ",
+    "transHi": "अल जिन",
+    "transPr": "جن",
+    "transEn": "The Jinn"
+  },
+  {
+    "id": 73,
+    "name": "المُزَّمِّل",
+    "transHi": "अल मुज़्ज़मिल",
+    "transPr": "مزمل",
+    "transEn": "The Enshrouded One"
+  },
+  {
+    "id": 74,
+    "name": "المُدَّثِّر",
+    "transHi": "अल मुद्दसिर",
+    "transPr": "مدثر",
+    "transEn": "The Cloaked One"
+  },
+
+  {
+    "id": 75,
+    "name": "القِيَامَة",
+    "transHi": "अल क़ियामह",
+    "transPr": "قیامت",
+    "transEn": "The Resurrection"
+  },
+  {
+    "id": 76,
+    "name": "الإنسَان",
+    "transHi": "अल इन्सान",
+    "transPr": "انسان",
+    "transEn": "Man"
+  },
+  {
+    "id": 77,
+    "name": "المُرْسَلَات",
+    "transHi": "अल मुर्सलात",
+    "transPr": "مرسلات",
+    "transEn": "The Emissaries"
+  },
+  {
+    "id": 78,
+    "name": "النَّبَأ",
+    "transHi": "अन नबा",
+    "transPr": "نبا",
+    "transEn": "The Tidings"
+  },
+  {
+    "id": 79,
+    "name": "النّازعات",
+    "transHi": "अन नाज़िअात",
+    "transPr": "نازعات",
+    "transEn": "Those who drag forth"
+  },
+  {
+    "id": 80,
+    "name": "عَبَس",
+    "transHi": "अबास",
+    "transPr": "عبس",
+    "transEn": "He Frowned"
+  },
+  {
+    "id": 81,
+    "name": "التَّكوير",
+    "transHi": "अत तकवीर",
+    "transPr": "تكویر",
+    "transEn": "The Overthrowing"
+  },
+  {
+    "id": 82,
+    "name": "الإنفِطَار",
+    "transHi": "अल इन्फितार",
+    "transPr": "انفطار",
+    "transEn": "The Cleaving"
+  },
+  {
+    "id": 83,
+    "name": "المُطَفِّفِين",
+    "transHi": "अल मुतफिफीन",
+    "transPr": "متففین",
+    "transEn": "Defrauding"
+  },
+  {
+    "id": 84,
+    "name": "الإنشِقَاق",
+    "transHi": "अल इनशिक़ाक",
+    "transPr": "انشقاق",
+    "transEn": "The Splitting Open"
+  },
+  {
+    "id": 85,
+    "name": "البرُوج",
+    "transHi": "अल बुरूज",
+    "transPr": "بروج",
+    "transEn": "The Mansions of the Stars"
+  },
+  {
+    "id": 86,
+    "name": "الطَّارِق",
+    "transHi": "अत तारिक",
+    "transPr": "طارق",
+    "transEn": "The Morning Star"
+  },
+  {
+    "id": 87,
+    "name": "الأعلَىٰ",
+    "transHi": "अल आला",
+    "transPr": "اعلی",
+    "transEn": "The Most High"
+  },
+  {
+    "id": 88,
+    "name": "الغَاشِيَة",
+    "transHi": "अल गाशियाह",
+    "transPr": "غاشیه",
+    "transEn": "The Overwhelming"
+  },
+  {
+    "id": 89,
+    "name": "الفَجْر",
+    "transHi": "अल फज्र",
+    "transPr": "فجر",
+    "transEn": "The Dawn"
+  },
+  {
+    "id": 90,
+    "name": "البَلَد",
+    "transHi": "अल बलद",
+    "transPr": "بلد",
+    "transEn": "The City"
+  },
+  {
+    "id": 91,
+    "name": "الشَّمْس",
+    "transHi": "अश शम्स",
+    "transPr": "شمس",
+    "transEn": "The Sun"
+  },
+  {
+    "id": 92,
+    "name": "اللَّيْل",
+    "transHi": "अल लैल",
+    "transPr": "لیل",
+    "transEn": "The Night"
+  },
+  {
+    "id": 93,
+    "name": "الضُّحَىٰ",
+    "transHi": "अद दुहा",
+    "transPr": "ضحی",
+    "transEn": "The Morning Hours"
+  },
+  {
+    "id": 94,
+    "name": "الشَّرْح",
+    "transHi": "अश शरह",
+    "transPr": "شرح",
+    "transEn": "The Relief"
+  },
+  {
+    "id": 95,
+    "name": "التِّين",
+    "transHi": "अत तीन",
+    "transPr": "تین",
+    "transEn": "The Fig"
+  },
+  {
+    "id": 96,
+    "name": "العَلَق",
+    "transHi": "अल अलक",
+    "transPr": "علق",
+    "transEn": "The Clot"
+  },
+  {
+    "id": 97,
+    "name": "القَدْر",
+    "transHi": "अल क़द्र",
+    "transPr": "قدر",
+    "transEn": "The Power"
+  },
+  {
+    "id": 98,
+    "name": "البَيِّنَة",
+    "transHi": "अल बय्यिनाह",
+    "transPr": "بینه",
+    "transEn": "The Clear Evidence"
+  },
+  {
+    "id": 99,
+    "name": "الزَّلْزَلَة",
+    "transHi": "अल ज़लज़लाह",
+    "transPr": "زلزله",
+    "transEn": "The Earthquake"
+  },
+  {
+    "id": 100,
+    "name": "العَادِيَات",
+    "transHi": "अल आदियात",
+    "transPr": "عادیات",
+    "transEn": "The Chargers"
+  },
+  {
+    "id": 101,
+    "name": "القَارِعَة",
+    "transHi": "अल क़ारिअह",
+    "transPr": "قارعه",
+    "transEn": "The Calamity"
+  },
+  {
+    "id": 102,
+    "name": "التَّكَاثُر",
+    "transHi": "अत तकासुर",
+    "transPr": "تکاثر",
+    "transEn": "The Rivalry in world increase"
+  },
+  {
+    "id": 103,
+    "name": "العَصْر",
+    "transHi": "अल अस्र",
+    "transPr": "عصر",
+    "transEn": "The Declining Day"
+  },
+  {
+    "id": 104,
+    "name": "الهُمَزَة",
+    "transHi": "अल हुमज़ाह",
+    "transPr": "همزه",
+    "transEn": "The Traducer"
+  },
+  {
+    "id": 105,
+    "name": "الفِيل",
+    "transHi": "अल फ़ील",
+    "transPr": "فیل",
+    "transEn": "The Elephant"
+  },
+  {
+    "id": 106,
+    "name": "قُرَيْش",
+    "transHi": "क़ुरैश",
+    "transPr": "قریش",
+    "transEn": "Quraysh"
+  },
+  {
+    "id": 107,
+    "name": "المَاعُون",
+    "transHi": "अल माऊन",
+    "transPr": "ماعون",
+    "transEn": "The Daily Necessities"
+  },
+  {
+    "id": 108,
+    "name": "الكَوْثَر",
+    "transHi": "अल कौथर",
+    "transPr": "کوثر",
+    "transEn": "The Abundance"
+  },
+  {
+    "id": 109,
+    "name": "الكَافِرُون",
+    "transHi": "अल काफ़िरून",
+    "transPr": "کافرون",
+    "transEn": "The Disbelievers"
+  },
+  {
+    "id": 110,
+    "name": "النَّصْر",
+    "transHi": "अन नस्र",
+    "transPr": "نصر",
+    "transEn": "The Divine Support"
+  },
+  {
+    "id": 111,
+    "name": "المَسَد",
+    "transHi": "अल मसद",
+    "transPr": "مسد",
+    "transEn": "The Palm Fiber"
+  },
+  {
+    "id": 112,
+    "name": "الإخْلَاص",
+    "transHi": "अल इख़लास",
+    "transPr": "اخلاص",
+    "transEn": "Sincerity"
+  },
+  {
+    "id": 113,
+    "name": "الفَلَق",
+    "transHi": "अल फ़लक",
+    "transPr": "فلق",
+    "transEn": "The Daybreak"
+  },
+  {
+    "id": 114,
+    "name": "النَّاس",
+    "transHi": "अन नास",
+    "transPr": "ناس",
+    "transEn": "Mankind"
+  }
+]
