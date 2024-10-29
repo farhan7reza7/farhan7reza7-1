@@ -5,7 +5,9 @@
     "transHi": "अल फातिहा",
     "transPr": "آیه‌های ابتدایی",
     "transEn": "The Opening",
-    "transliteration": "Al-Fatihah"
+    "transliteration": "Al-Fatihah",
+    "versesCount": 7,
+    "revelationType": "Meccan"
   },
   {
     "id": 2,
@@ -13,7 +15,9 @@
     "transHi": "अल बकरा",
     "transPr": "گاو",
     "transEn": "The Cow",
-    "transliteration": "Al-Baqarah"
+    "transliteration": "Al-Baqarah",
+    "versesCount": 286,
+    "revelationType": "Medinan"
   },
   {
     "id": 3,
@@ -21,7 +25,9 @@
     "transHi": "आले इमरान",
     "transPr": "خاندان عمران",
     "transEn": "The Family of Imran",
-    "transliteration": "Al-Imran"
+    "transliteration": "Al-Imran",
+    "versesCount": 200,
+    "revelationType": "Medinan"
   },
   {
     "id": 4,
@@ -29,7 +35,9 @@
     "transHi": "अन निसा",
     "transPr": "زنان",
     "transEn": "The Women",
-    "transliteration": "An-Nisa"
+    "transliteration": "An-Nisa",
+    "versesCount": 176,
+    "revelationType": "Medinan"
   },
   {
     "id": 5,
@@ -37,7 +45,9 @@
     "transHi": "अल माइदाह",
     "transPr": "سفره",
     "transEn": "The Table Spread",
-    "transliteration": "Al-Ma'idah"
+    "transliteration": "Al-Ma'idah",
+    "versesCount": 120,
+    "revelationType": "Medinan"
   },
   {
     "id": 6,
@@ -45,7 +55,9 @@
     "transHi": "अल अनाम",
     "transPr": "انعام",
     "transEn": "The Cattle",
-    "transliteration": "Al-An'am"
+    "transliteration": "Al-An'am",
+    "versesCount": 165,
+    "revelationType": "Meccan"
   },
   {
     "id": 7,
@@ -53,7 +65,9 @@
     "transHi": "अल आराफ",
     "transPr": "آیه‌های اعراف",
     "transEn": "The Heights",
-    "transliteration": "Al-A'raf"
+    "transliteration": "Al-A'raf",
+    "versesCount": 206,
+    "revelationType": "Meccan"
   },
   {
     "id": 8,
@@ -61,7 +75,9 @@
     "transHi": "अल अनफाल",
     "transPr": "انفال",
     "transEn": "The Spoils of War",
-    "transliteration": "Al-Anfal"
+    "transliteration": "Al-Anfal",
+    "versesCount": 75,
+    "revelationType": "Medinan"
   },
   {
     "id": 9,
@@ -69,7 +85,9 @@
     "transHi": "अत तौबा",
     "transPr": "توبه",
     "transEn": "The Repentance",
-    "transliteration": "At-Tawbah"
+    "transliteration": "At-Tawbah",
+    "versesCount": 129,
+    "revelationType": "Medinan"
   },
   {
     "id": 10,
@@ -77,7 +95,9 @@
     "transHi": "यूनुस",
     "transPr": "یونس",
     "transEn": "Jonah",
-    "transliteration": "Yunus"
+    "transliteration": "Yunus",
+    "versesCount": 109,
+    "revelationType": "Meccan"
   },
   {
     "id": 11,
@@ -85,7 +105,9 @@
     "transHi": "हूद",
     "transPr": "هود",
     "transEn": "Hud",
-    "transliteration": "Hud"
+    "transliteration": "Hud",
+    "versesCount": 123,
+    "revelationType": "Meccan"
   },
   {
     "id": 12,
@@ -93,7 +115,9 @@
     "transHi": "यूसुफ",
     "transPr": "یوسف",
     "transEn": "Joseph",
-    "transliteration": "Yusuf"
+    "transliteration": "Yusuf",
+    "versesCount": 111,
+    "revelationType": "Meccan"
   },
   {
     "id": 13,
@@ -101,7 +125,9 @@
     "transHi": "अर राद",
     "transPr": "رعد",
     "transEn": "The Thunder",
-    "transliteration": "Ar-Ra'd"
+    "transliteration": "Ar-Ra'd",
+    "versesCount": 43,
+    "revelationType": "Meccan"
   },
   {
     "id": 14,
@@ -109,7 +135,9 @@
     "transHi": "इब्राहीम",
     "transPr": "ابراهیم",
     "transEn": "Abraham",
-    "transliteration": "Ibrahim"
+    "transliteration": "Ibrahim",
+    "versesCount": 52,
+    "revelationType": "Meccan"
   },
   {
     "id": 15,
@@ -117,7 +145,9 @@
     "transHi": "अल हिज्र",
     "transPr": "حجر",
     "transEn": "The Rock",
-    "transliteration": "Al-Hijr"
+    "transliteration": "Al-Hijr",
+    "versesCount": 99,
+    "revelationType": "Meccan"
   },
   {
     "id": 16,
@@ -125,7 +155,9 @@
     "transHi": "अन नहल",
     "transPr": "نحل",
     "transEn": "The Bee",
-    "transliteration": "An-Nahl"
+    "transliteration": "An-Nahl",
+    "versesCount": 128,
+    "revelationType": "Meccan"
   },
   {
     "id": 17,
@@ -133,7 +165,9 @@
     "transHi": "अल इसरा",
     "transPr": "معراج",
     "transEn": "The Night Journey",
-    "transliteration": "Al-Isra"
+    "transliteration": "Al-Isra",
+    "versesCount": 111,
+    "revelationType": "Meccan"
   },
   {
     "id": 18,
@@ -141,7 +175,9 @@
     "transHi": "अल कहफ",
     "transPr": "غار",
     "transEn": "The Cave",
-    "transliteration": "Al-Kahf"
+    "transliteration": "Al-Kahf",
+    "versesCount": 110,
+    "revelationType": "Meccan"
   },
   {
     "id": 19,
@@ -149,7 +185,9 @@
     "transHi": "मरयम",
     "transPr": "مریم",
     "transEn": "Mary",
-    "transliteration": "Maryam"
+    "transliteration": "Maryam",
+    "versesCount": 98,
+    "revelationType": "Meccan"
   },
   {
     "id": 20,
@@ -157,7 +195,9 @@
     "transHi": "ताहा",
     "transPr": "طه",
     "transEn": "Ta-Ha",
-    "transliteration": "Taha"
+    "transliteration": "Taha",
+    "versesCount": 135,
+    "revelationType": "Meccan"
   },
   {
     "id": 21,
@@ -165,15 +205,19 @@
     "transHi": "अल अम्बिया",
     "transPr": "انبیا",
     "transEn": "The Prophets",
-    "transliteration": "Al-Anbiya"
+    "transliteration": "Al-Anbiya",
+    "versesCount": 112,
+    "revelationType": "Meccan"
   },
-{
+  {
     "id": 22,
     "name": "الحَجّ",
     "transHi": "अल हज्ज",
     "transPr": "حج",
     "transEn": "The Pilgrimage",
-    "transliteration": "Al-Hajj"
+    "transliteration": "Al-Hajj",
+    "versesCount": 78,
+    "revelationType": "Medinan"
   },
   {
     "id": 23,
@@ -181,7 +225,9 @@
     "transHi": "अल मुएमिनून",
     "transPr": "مومنون",
     "transEn": "The Believers",
-    "transliteration": "Al-Mu'minun"
+    "transliteration": "Al-Mu'minun",
+    "versesCount": 118,
+    "revelationType": "Meccan"
   },
   {
     "id": 24,
@@ -189,7 +235,9 @@
     "transHi": "अन नूर",
     "transPr": "نور",
     "transEn": "The Light",
-    "transliteration": "An-Nur"
+    "transliteration": "An-Nur",
+    "versesCount": 64,
+    "revelationType": "Medinan"
   },
   {
     "id": 25,
@@ -197,16 +245,19 @@
     "transHi": "अल फुर्कान",
     "transPr": "فرقان",
     "transEn": "The Criterion",
-    "transliteration": "Al-Furqan"
+    "transliteration": "Al-Furqan",
+    "versesCount": 77,
+    "revelationType": "Meccan"
   },
-  
-{
+  {
     "id": 26,
     "name": "الشُّعَرَاء",
     "transHi": "अश शुआरा",
     "transPr": "شعراء",
     "transEn": "The Poets",
-    "transliteration": "Ash-Shu'ara"
+    "transliteration": "Ash-Shu'ara",
+    "versesCount": 227,
+    "revelationType": "Meccan"
   },
   {
     "id": 27,
@@ -214,7 +265,9 @@
     "transHi": "अन नम्ल",
     "transPr": "نمل",
     "transEn": "The Ant",
-    "transliteration": "An-Naml"
+    "transliteration": "An-Naml",
+    "versesCount": 93,
+    "revelationType": "Meccan"
   },
   {
     "id": 28,
@@ -222,7 +275,9 @@
     "transHi": "अल कसस",
     "transPr": "قصص",
     "transEn": "The Stories",
-    "transliteration": "Al-Qasas"
+    "transliteration": "Al-Qasas",
+    "versesCount": 88,
+    "revelationType": "Meccan"
   },
   {
     "id": 29,
@@ -230,7 +285,9 @@
     "transHi": "अल अनकाबूत",
     "transPr": "عنكبوت",
     "transEn": "The Spider",
-    "transliteration": "Al-Ankabut"
+    "transliteration": "Al-Ankabut",
+    "versesCount": 69,
+    "revelationType": "Meccan"
   },
   {
     "id": 30,
@@ -238,7 +295,9 @@
     "transHi": "अर रूम",
     "transPr": "رم",
     "transEn": "The Romans",
-    "transliteration": "Ar-Rum"
+    "transliteration": "Ar-Rum",
+    "versesCount": 60,
+    "revelationType": "Meccan"
   },
   {
     "id": 31,
@@ -246,7 +305,9 @@
     "transHi": "लुक्मान",
     "transPr": "لقمان",
     "transEn": "Luqman",
-    "transliteration": "Luqman"
+    "transliteration": "Luqman",
+    "versesCount": 34,
+    "revelationType": "Meccan"
   },
   {
     "id": 32,
@@ -254,7 +315,9 @@
     "transHi": "अस सजदा",
     "transPr": "سجده",
     "transEn": "The Prostration",
-    "transliteration": "As-Sajda"
+    "transliteration": "As-Sajda",
+    "versesCount": 30,
+    "revelationType": "Meccan"
   },
   {
     "id": 33,
@@ -262,7 +325,9 @@
     "transHi": "अल अहजाब",
     "transPr": "احزاب",
     "transEn": "The Combined Forces",
-    "transliteration": "Al-Ahzab"
+    "transliteration": "Al-Ahzab",
+    "versesCount": 73,
+    "revelationType": "Medinan"
   },
   {
     "id": 34,
@@ -270,7 +335,9 @@
     "transHi": "सबा",
     "transPr": "سبأ",
     "transEn": "Sheba",
-    "transliteration": "Saba"
+    "transliteration": "Saba",
+    "versesCount": 54,
+    "revelationType": "Meccan"
   },
   {
     "id": 35,
@@ -278,7 +345,9 @@
     "transHi": "फातिर",
     "transPr": "فاطر",
     "transEn": "The Originator",
-    "transliteration": "Fatir"
+    "transliteration": "Fatir",
+    "versesCount": 45,
+    "revelationType": "Meccan"
   },
   {
     "id": 36,
@@ -286,7 +355,9 @@
     "transHi": "यास",
     "transPr": "یاس",
     "transEn": "Ya-Sin",
-    "transliteration": "Ya Sin"
+    "transliteration": "Ya Sin",
+    "versesCount": 83,
+    "revelationType": "Meccan"
   },
   {
     "id": 37,
@@ -294,7 +365,9 @@
     "transHi": "अस साफात",
     "transPr": "صافات",
     "transEn": "Those Who Set The Ranks",
-    "transliteration": "As-Saffat"
+    "transliteration": "As-Saffat",
+    "versesCount": 182,
+    "revelationType": "Meccan"
   },
   {
     "id": 38,
@@ -302,7 +375,9 @@
     "transHi": "साद",
     "transPr": "صاد",
     "transEn": "Saad",
-    "transliteration": "Sad"
+    "transliteration": "Sad",
+    "versesCount": 88,
+    "revelationType": "Meccan"
   },
   {
     "id": 39,
@@ -310,7 +385,9 @@
     "transHi": "अज जुम्मा",
     "transPr": "زمر",
     "transEn": "The Troops",
-    "transliteration": "Az-Zumar"
+    "transliteration": "Az-Zumar",
+    "versesCount": 75,
+    "revelationType": "Meccan"
   },
   {
     "id": 40,
@@ -318,7 +395,9 @@
     "transHi": "ग़ाफ़िर",
     "transPr": "غافر",
     "transEn": "The Forgiver",
-    "transliteration": "Ghafir"
+    "transliteration": "Ghafir",
+    "versesCount": 85,
+    "revelationType": "Meccan"
   },
   {
     "id": 41,
@@ -326,7 +405,9 @@
     "transHi": "फुस्सिलत",
     "transPr": "فصلت",
     "transEn": "Explained in Detail",
-    "transliteration": "Fussilat"
+    "transliteration": "Fussilat",
+    "versesCount": 54,
+    "revelationType": "Meccan"
   },
   {
     "id": 42,
@@ -334,7 +415,9 @@
     "transHi": "अश शूरा",
     "transPr": "شوری",
     "transEn": "The Consultation",
-    "transliteration": "Ash-Shura"
+    "transliteration": "Ash-Shura",
+    "versesCount": 53,
+    "revelationType": "Meccan"
   },
   {
     "id": 43,
@@ -342,7 +425,9 @@
     "transHi": "अज जुखरूफ",
     "transPr": "زخرف",
     "transEn": "The Gold Adornments",
-    "transliteration": "Az-Zukhruf"
+    "transliteration": "Az-Zukhruf",
+    "versesCount": 89,
+    "revelationType": "Meccan"
   },
   {
     "id": 44,
@@ -350,7 +435,9 @@
     "transHi": "अद दुखान",
     "transPr": "دخان",
     "transEn": "The Smoke",
-    "transliteration": "Ad-Dukhan"
+    "transliteration": "Ad-Dukhan",
+    "versesCount": 59,
+    "revelationType": "Meccan"
   },
   {
     "id": 45,
@@ -358,7 +445,9 @@
     "transHi": "अल जाथियाह",
     "transPr": "جاثیه",
     "transEn": "The Crouching",
-    "transliteration": "Al-Jathiyah"
+    "transliteration": "Al-Jathiyah",
+    "versesCount": 37,
+    "revelationType": "Meccan"
   },
   {
     "id": 46,
@@ -366,23 +455,29 @@
     "transHi": "अल अहक़ाफ",
     "transPr": "احقاف",
     "transEn": "The Dunes",
-    "transliteration": "Al-Ahqaf"
+    "transliteration": "Al-Ahqaf",
+    "versesCount": 35,
+    "revelationType": "Meccan"
   },
-{
-  "id": 47,
-  "name": "مُحَمَّد",
-  "transHi": "मुहम्मद",
-  "transPr": "محمد",
-  "transEn": "Muhammad",
-  "transliteration": "Muhammad"
-},
-{
+  {
+    "id": 47,
+    "name": "مُحَمَّد",
+    "transHi": "मुहम्मद",
+    "transPr": "محمد",
+    "transEn": "Muhammad",
+    "transliteration": "Muhammad",
+    "versesCount": 38,
+    "revelationType": "Medinan"
+  },
+  {
     "id": 48,
     "name": "الفتح",
     "transHi": "अल फ़तह",
     "transPr": "فتح",
     "transEn": "The Victory",
-    "transliteration": "Al-Fath"
+    "transliteration": "Al-Fath",
+    "versesCount": 29,
+    "revelationType": "Medinan"
   },
   {
     "id": 49,
@@ -390,7 +485,9 @@
     "transHi": "अल हुजुरात",
     "transPr": "حجرات",
     "transEn": "The Rooms",
-    "transliteration": "Al-Hujurat"
+    "transliteration": "Al-Hujurat",
+    "versesCount": 18,
+    "revelationType": "Medinan"
   },
   {
     "id": 50,
@@ -398,7 +495,9 @@
     "transHi": "काफ",
     "transPr": "قاف",
     "transEn": "Qaf",
-    "transliteration": "Qaf"
+    "transliteration": "Qaf",
+    "versesCount": 45,
+    "revelationType": "Meccan"
   },
   {
     "id": 51,
@@ -406,7 +505,9 @@
     "transHi": "अज़ जारियात",
     "transPr": "ذاریات",
     "transEn": "The Winnowing Winds",
-    "transliteration": "Adh-Dhariyat"
+    "transliteration": "Adh-Dhariyat",
+    "versesCount": 60,
+    "revelationType": "Meccan"
   },
   {
     "id": 52,
@@ -414,7 +515,9 @@
     "transHi": "अत तूर",
     "transPr": "طور",
     "transEn": "The Mount",
-    "transliteration": "At-Tur"
+    "transliteration": "At-Tur",
+    "versesCount": 49,
+    "revelationType": "Meccan"
   },
   {
     "id": 53,
@@ -422,7 +525,9 @@
     "transHi": "अन नज्म",
     "transPr": "نجم",
     "transEn": "The Star",
-    "transliteration": "An-Najm"
+    "transliteration": "An-Najm",
+    "versesCount": 62,
+    "revelationType": "Meccan"
   },
   {
     "id": 54,
@@ -430,7 +535,9 @@
     "transHi": "अल कमर",
     "transPr": "قمر",
     "transEn": "The Moon",
-    "transliteration": "Al-Qamar"
+    "transliteration": "Al-Qamar",
+    "versesCount": 55,
+    "revelationType": "Meccan"
   },
   {
     "id": 55,
@@ -438,7 +545,9 @@
     "transHi": "अर रहमान",
     "transPr": "رحمن",
     "transEn": "The Beneficent",
-    "transliteration": "Ar-Rahman"
+    "transliteration": "Ar-Rahman",
+    "versesCount": 78,
+    "revelationType": "Medinan"
   },
   {
     "id": 56,
@@ -446,7 +555,9 @@
     "transHi": "अल वाक़िअह",
     "transPr": "واقعه",
     "transEn": "The Inevitable",
-    "transliteration": "Al-Waqi'ah"
+    "transliteration": "Al-Waqi'ah",
+    "versesCount": 96,
+    "revelationType": "Meccan"
   },
   {
     "id": 57,
@@ -454,7 +565,9 @@
     "transHi": "अल हदीद",
     "transPr": "حديد",
     "transEn": "The Iron",
-    "transliteration": "Al-Hadid"
+    "transliteration": "Al-Hadid",
+    "versesCount": 29,
+    "revelationType": "Medinan"
   },
   {
     "id": 58,
@@ -462,7 +575,9 @@
     "transHi": "अल मुजादिलाह",
     "transPr": "مجادله",
     "transEn": "The Pleading Woman",
-    "transliteration": "Al-Mujadila"
+    "transliteration": "Al-Mujadila",
+    "versesCount": 22,
+    "revelationType": "Medinan"
   },
   {
     "id": 59,
@@ -470,7 +585,9 @@
     "transHi": "अल हाश्र",
     "transPr": "حشر",
     "transEn": "The Exile",
-    "transliteration": "Al-Hashr"
+    "transliteration": "Al-Hashr",
+    "versesCount": 24,
+    "revelationType": "Medinan"
   },
   {
     "id": 60,
@@ -478,7 +595,9 @@
     "transHi": "अल मुमतहनه",
     "transPr": "ممتحنه",
     "transEn": "She that is to be Examined",
-    "transliteration": "Al-Mumtahanah"
+    "transliteration": "Al-Mumtahanah",
+    "versesCount": 13,
+    "revelationType": "Medinan"
   },
   {
     "id": 61,
@@ -486,7 +605,9 @@
     "transHi": "अस सफ़्",
     "transPr": "صف",
     "transEn": "The Ranks",
-    "transliteration": "As-Saff"
+    "transliteration": "As-Saff",
+    "versesCount": 14,
+    "revelationType": "Medinan"
   },
   {
     "id": 62,
@@ -494,7 +615,9 @@
     "transHi": "अल जुमुअह",
     "transPr": "جمعه",
     "transEn": "The Day of Congregation",
-    "transliteration": "Al-Jumu'ah"
+    "transliteration": "Al-Jumu'ah",
+    "versesCount": 11,
+    "revelationType": "Medinan"
   },
   {
     "id": 63,
@@ -502,7 +625,9 @@
     "transHi": "अल मुनाफ़िकून",
     "transPr": "منافقون",
     "transEn": "The Hypocrites",
-    "transliteration": "Al-Munafiqun"
+    "transliteration": "Al-Munafiqun",
+    "versesCount": 11,
+    "revelationType": "Medinan"
   },
   {
     "id": 64,
@@ -510,7 +635,9 @@
     "transHi": "अत तगाबुन",
     "transPr": "تغابن",
     "transEn": "Mutual Disillusion",
-    "transliteration": "At-Taghabun"
+    "transliteration": "At-Taghabun",
+    "versesCount": 18,
+    "revelationType": "Medinan"
   },
   {
     "id": 65,
@@ -518,7 +645,9 @@
     "transHi": "अत तालाक़",
     "transPr": "طلاق",
     "transEn": "The Divorce",
-    "transliteration": "At-Talaq"
+    "transliteration": "At-Talaq",
+    "versesCount": 12,
+    "revelationType": "Medinan"
   },
   {
     "id": 66,
@@ -526,7 +655,9 @@
     "transHi": "अत तहरीम",
     "transPr": "تحريم",
     "transEn": "The Prohibition",
-    "transliteration": "At-Tahrim"
+    "transliteration": "At-Tahrim",
+    "versesCount": 12,
+    "revelationType": "Medinan"
   },
   {
     "id": 67,
@@ -534,7 +665,9 @@
     "transHi": "अल मुल्क",
     "transPr": "ملك",
     "transEn": "The Sovereignty",
-    "transliteration": "Al-Mulk"
+    "transliteration": "Al-Mulk",
+    "versesCount": 30,
+    "revelationType": "Meccan"
   },
   {
     "id": 68,
@@ -542,7 +675,9 @@
     "transHi": "अल क़लम",
     "transPr": "قلم",
     "transEn": "The Pen",
-    "transliteration": "Al-Qalam"
+    "transliteration": "Al-Qalam",
+    "versesCount": 52,
+    "revelationType": "Meccan"
   },
   {
     "id": 69,
@@ -550,7 +685,9 @@
     "transHi": "अल हाकक़ाह",
     "transPr": "حاقه",
     "transEn": "The Reality",
-    "transliteration": "Al-Haqqah"
+    "transliteration": "Al-Haqqah",
+    "versesCount": 52,
+    "revelationType": "Meccan"
   },
   {
     "id": 70,
@@ -558,7 +695,9 @@
     "transHi": "अल मुअर्रज़ात",
     "transPr": "معارج",
     "transEn": "The Ascending Stairways",
-    "transliteration": "Al-Ma'arij"
+    "transliteration": "Al-Ma'arij",
+    "versesCount": 44,
+    "revelationType": "Meccan"
   },
   {
     "id": 71,
@@ -566,7 +705,9 @@
     "transHi": "नूह",
     "transPr": "نوح",
     "transEn": "Noah",
-    "transliteration": "Nuh"
+    "transliteration": "Nuh",
+    "versesCount": 28,
+    "revelationType": "Meccan"
   },
   {
     "id": 72,
@@ -574,7 +715,9 @@
     "transHi": "अल जिन",
     "transPr": "جن",
     "transEn": "The Jinn",
-    "transliteration": "Al-Jinn"
+    "transliteration": "Al-Jinn",
+    "versesCount": 28,
+    "revelationType": "Meccan"
   },
   {
     "id": 73,
@@ -582,7 +725,9 @@
     "transHi": "अल मुज़म्मिल",
     "transPr": "مزمل",
     "transEn": "The Enshrouded One",
-    "transliteration": "Al-Muzzammil"
+    "transliteration": "Al-Muzzammil",
+    "versesCount": 20,
+    "revelationType": "Meccan"
   },
   {
     "id": 74,
@@ -590,7 +735,9 @@
     "transHi": "अल मुदथर",
     "transPr": "مدثر",
     "transEn": "The Cloaked One",
-    "transliteration": "Al-Muddathir"
+    "transliteration": "Al-Muddathir",
+    "versesCount": 56,
+    "revelationType": "Meccan"
   },
   {
     "id": 75,
@@ -598,7 +745,9 @@
     "transHi": "अल क़यामत",
     "transPr": "قيامت",
     "transEn": "The Resurrection",
-    "transliteration": "Al-Qiyamah"
+    "transliteration": "Al-Qiyamah",
+    "versesCount": 40,
+    "revelationType": "Meccan"
   },
   {
     "id": 76,
@@ -606,7 +755,9 @@
     "transHi": "अल इंसान",
     "transPr": "انسان",
     "transEn": "Man",
-    "transliteration": "Al-Insan"
+    "transliteration": "Al-Insan",
+    "versesCount": 31,
+    "revelationType": "Meccan"
   },
   {
     "id": 77,
@@ -614,7 +765,9 @@
     "transHi": "अल मुर्सलात",
     "transPr": "مرسلات",
     "transEn": "The Emissaries",
-    "transliteration": "Al-Mursalat"
+    "transliteration": "Al-Mursalat",
+    "versesCount": 50,
+    "revelationType": "Meccan"
   },
   {
     "id": 78,
@@ -622,7 +775,9 @@
     "transHi": "अन नबा",
     "transPr": "نبأ",
     "transEn": "The Tidings",
-    "transliteration": "An-Naba"
+    "transliteration": "An-Naba",
+    "versesCount": 40,
+    "revelationType": "Meccan"
   },
   {
     "id": 79,
@@ -630,7 +785,9 @@
     "transHi": "अन नाजिअात",
     "transPr": "نازعات",
     "transEn": "Those Who Pull Out",
-    "transliteration": "An-Nazi'at"
+    "transliteration": "An-Nazi'at",
+    "versesCount": 46,
+    "revelationType": "Meccan"
   },
   {
     "id": 80,
@@ -638,7 +795,9 @@
     "transHi": "उबस",
     "transPr": "عبس",
     "transEn": "He Frowned",
-    "transliteration": "Abasa"
+    "transliteration": "Abasa",
+    "versesCount": 42,
+    "revelationType": "Meccan"
   },
   {
     "id": 81,
@@ -646,7 +805,9 @@
     "transHi": "अत तकवीर",
     "transPr": "تكویر",
     "transEn": "The Overthrowing",
-    "transliteration": "At-Takwir"
+    "transliteration": "At-Takwir",
+    "versesCount": 29,
+    "revelationType": "Meccan"
   },
   {
     "id": 82,
@@ -654,7 +815,9 @@
     "transHi": "अल इनफ्तार",
     "transPr": "انفطار",
     "transEn": "The Cleaving",
-    "transliteration": "Al-Infitar"
+    "transliteration": "Al-Infitar",
+    "versesCount": 19,
+    "revelationType": "Meccan"
   },
   {
     "id": 83,
@@ -662,7 +825,9 @@
     "transHi": "अल मुतफ्फिफीन",
     "transPr": "مطففین",
     "transEn": "Defrauding",
-    "transliteration": "Al-Mutaffifin"
+    "transliteration": "Al-Mutaffifin",
+    "versesCount": 36,
+    "revelationType": "Meccan"
   },
   {
     "id": 84,
@@ -670,7 +835,9 @@
     "transHi": "अल इनशिक़ाक़",
     "transPr": "انشقاق",
     "transEn": "The Splitting Open",
-    "transliteration": "Al-Inshiqaq"
+    "transliteration": "Al-Inshiqaq",
+    "versesCount": 25,
+    "revelationType": "Meccan"
   },
   {
     "id": 85,
@@ -678,7 +845,9 @@
     "transHi": "अल बुरूज़",
     "transPr": "بروج",
     "transEn": "The Constellations",
-    "transliteration": "Al-Buruj"
+    "transliteration": "Al-Buruj",
+    "versesCount": 22,
+    "revelationType": "Meccan"
   },
   {
     "id": 86,
@@ -686,7 +855,9 @@
     "transHi": "अत तारिक़",
     "transPr": "طارق",
     "transEn": "The Morning Star",
-    "transliteration": "At-Tariq"
+    "transliteration": "At-Tariq",
+    "versesCount": 17,
+    "revelationType": "Meccan"
   },
   {
     "id": 87,
@@ -694,7 +865,9 @@
     "transHi": "अल अला",
     "transPr": "اعلی",
     "transEn": "The Most High",
-    "transliteration": "Al-A'la"
+    "transliteration": "Al-A'la",
+    "versesCount": 19,
+    "revelationType": "Meccan"
   },
   {
     "id": 88,
@@ -702,24 +875,29 @@
     "transHi": "अल गाशियाह",
     "transPr": "غاشیه",
     "transEn": "The Overwhelming Event",
-    "transliteration": "Al-Ghashiyah"
+    "transliteration": "Al-Ghashiyah",
+    "versesCount": 26,
+    "revelationType": "Meccan"
   },
-{
-  "id": 89,
-  "name": "الفَجْر",
-  "transHi": "अल फज्र",
-  "transPr": "طلوع آفتاب",
-  "transEn": "The Dawn",
-  "transliteration": "Al-Fajr"
-}
-,
+  {
+    "id": 89,
+    "name": "الفَجْر",
+    "transHi": "अल फज्र",
+    "transPr": "طلوع آفتاب",
+    "transEn": "The Dawn",
+    "transliteration": "Al-Fajr",
+    "versesCount": 30,
+    "revelationType": "Meccan"
+  },
   {
     "id": 90,
     "name": "البلد",
     "transHi": "अल बलद",
     "transPr": "بلد",
     "transEn": "The City",
-    "transliteration": "Al-Balad"
+    "transliteration": "Al-Balad",
+    "versesCount": 20,
+    "revelationType": "Meccan"
   },
   {
     "id": 91,
@@ -727,7 +905,9 @@
     "transHi": "अश शम्स",
     "transPr": "شمس",
     "transEn": "The Sun",
-    "transliteration": "Ash-Shams"
+    "transliteration": "Ash-Shams",
+    "versesCount": 15,
+    "revelationType": "Meccan"
   },
   {
     "id": 92,
@@ -735,7 +915,9 @@
     "transHi": "अल लैल",
     "transPr": "لیل",
     "transEn": "The Night",
-    "transliteration": "Al-Lail"
+    "transliteration": "Al-Lail",
+    "versesCount": 21,
+    "revelationType": "Meccan"
   },
   {
     "id": 93,
@@ -743,7 +925,9 @@
     "transHi": "अद दुहा",
     "transPr": "ضحی",
     "transEn": "The Morning Hours",
-    "transliteration": "Ad-Duha"
+    "transliteration": "Ad-Duha",
+    "versesCount": 11,
+    "revelationType": "Meccan"
   },
   {
     "id": 94,
@@ -751,7 +935,9 @@
     "transHi": "अश शरह",
     "transPr": "شرح",
     "transEn": "The Relief",
-    "transliteration": "Ash-Sharh"
+    "transliteration": "Ash-Sharh",
+    "versesCount": 8,
+    "revelationType": "Meccan"
   },
   {
     "id": 95,
@@ -759,7 +945,9 @@
     "transHi": "अत तीन",
     "transPr": "تین",
     "transEn": "The Fig",
-    "transliteration": "At-Tin"
+    "transliteration": "At-Tin",
+    "versesCount": 8,
+    "revelationType": "Meccan"
   },
   {
     "id": 96,
@@ -767,7 +955,9 @@
     "transHi": "अल अलक़",
     "transPr": "علق",
     "transEn": "The Clot",
-    "transliteration": "Al-Alaq"
+    "transliteration": "Al-Alaq",
+    "versesCount": 19,
+    "revelationType": "Meccan"
   },
   {
     "id": 97,
@@ -775,7 +965,9 @@
     "transHi": "अल क़दर",
     "transPr": "قدر",
     "transEn": "The Power",
-    "transliteration": "Al-Qadr"
+    "transliteration": "Al-Qadr",
+    "versesCount": 5,
+    "revelationType": "Meccan"
   },
   {
     "id": 98,
@@ -783,7 +975,9 @@
     "transHi": "अल बय्यिनह",
     "transPr": "بینه",
     "transEn": "The Clear Proof",
-    "transliteration": "Al-Bayyinah"
+    "transliteration": "Al-Bayyinah",
+    "versesCount": 8,
+    "revelationType": "Medinan"
   },
   {
     "id": 99,
@@ -791,7 +985,9 @@
     "transHi": "अल ज़लज़ला",
     "transPr": "زلزله",
     "transEn": "The Earthquake",
-    "transliteration": "Az-Zalzalah"
+    "transliteration": "Az-Zalzalah",
+    "versesCount": 8,
+    "revelationType": "Meccan"
   },
   {
     "id": 100,
@@ -799,7 +995,9 @@
     "transHi": "अल आदियात",
     "transPr": "عادیات",
     "transEn": "The Chargers",
-    "transliteration": "Al-Aadiyat"
+    "transliteration": "Al-Aadiyat",
+    "versesCount": 11,
+    "revelationType": "Meccan"
   },
   {
     "id": 101,
@@ -807,7 +1005,9 @@
     "transHi": "अल क़ारिअह",
     "transPr": "قارعه",
     "transEn": "The Calamity",
-    "transliteration": "Al-Qari'ah"
+    "transliteration": "Al-Qari'ah",
+    "versesCount": 11,
+    "revelationType": "Meccan"
   },
   {
     "id": 102,
@@ -815,7 +1015,9 @@
     "transHi": "अत तकासुर",
     "transPr": "تکاثر",
     "transEn": "The Rivalry",
-    "transliteration": "At-Takathur"
+    "transliteration": "At-Takathur",
+    "versesCount": 8,
+    "revelationType": "Meccan"
   },
   {
     "id": 103,
@@ -823,7 +1025,9 @@
     "transHi": "अल असर",
     "transPr": "عصر",
     "transEn": "The Declining Day",
-    "transliteration": "Al-Asr"
+    "transliteration": "Al-Asr",
+    "versesCount": 3,
+    "revelationType": "Meccan"
   },
   {
     "id": 104,
@@ -831,7 +1035,9 @@
     "transHi": "अल हमज़ह",
     "transPr": "همزه",
     "transEn": "The Traducer",
-    "transliteration": "Al-Humazah"
+    "transliteration": "Al-Humazah",
+    "versesCount": 9,
+    "revelationType": "Meccan"
   },
   {
     "id": 105,
@@ -839,7 +1045,9 @@
     "transHi": "अल फ़ील",
     "transPr": "فیل",
     "transEn": "The Elephant",
-    "transliteration": "Al-Fil"
+    "transliteration": "Al-Fil",
+    "versesCount": 5,
+    "revelationType": "Meccan"
   },
   {
     "id": 106,
@@ -847,7 +1055,9 @@
     "transHi": "कुरैश",
     "transPr": "قریش",
     "transEn": "Quraysh",
-    "transliteration": "Quraish"
+    "transliteration": "Quraish",
+    "versesCount": 4,
+    "revelationType": "Meccan"
   },
   {
     "id": 107,
@@ -855,25 +1065,29 @@
     "transHi": "अल माऊन",
     "transPr": "ماعون",
     "transEn": "The Small Kindnesses",
-    "transliteration": "Al-Ma'un"
+    "transliteration": "Al-Ma'un",
+    "versesCount": 7,
+    "revelationType": "Meccan"
   },
-
   {
-  "id": 108,
-  "name": "الكَوْثَر",
-  "transHi": "अल कव्सर",
-  "transPr": "زیاده نعمت",
-  "transEn": "Abundance",
-  "transliteration": "Al-Kawthar"
-}
-,
+    "id": 108,
+    "name": "الكَوْثَر",
+    "transHi": "अल कव्सर",
+    "transPr": "زیاده نعمت",
+    "transEn": "Abundance",
+    "transliteration": "Al-Kawthar",
+    "versesCount": 3,
+    "revelationType": "Meccan"
+  },
   {
     "id": 109,
     "name": "الكافرون",
     "transHi": "अल क़ाफ़िरून",
     "transPr": "كافرون",
     "transEn": "The Disbelievers",
-    "transliteration": "Al-Kafirun"
+    "transliteration": "Al-Kafirun",
+    "versesCount": 6,
+    "revelationType": "Meccan"
   },
   {
     "id": 110,
@@ -881,7 +1095,9 @@
     "transHi": "अन नस्र",
     "transPr": "نصر",
     "transEn": "The Divine Support",
-    "transliteration": "An-Nasr"
+    "transliteration": "An-Nasr",
+    "versesCount": 3,
+    "revelationType": "Medinan"
   },
   {
     "id": 111,
@@ -889,7 +1105,9 @@
     "transHi": "अल मसद",
     "transPr": "مسد",
     "transEn": "The Palm Fiber",
-    "transliteration": "Al-Masad"
+    "transliteration": "Al-Masad",
+    "versesCount": 5,
+    "revelationType": "Meccan"
   },
   {
     "id": 112,
@@ -897,7 +1115,9 @@
     "transHi": "अल इख़लास",
     "transPr": "اخلاص",
     "transEn": "The Sincerity",
-    "transliteration": "Al-Ikhlas"
+    "transliteration": "Al-Ikhlas",
+    "versesCount": 4,
+    "revelationType": "Meccan"
   },
   {
     "id": 113,
@@ -905,7 +1125,9 @@
     "transHi": "अल फ़लक़",
     "transPr": "فلق",
     "transEn": "The Daybreak",
-    "transliteration": "Al-Falaq"
+    "transliteration": "Al-Falaq",
+    "versesCount": 5,
+    "revelationType": "Meccan"
   },
   {
     "id": 114,
@@ -913,6 +1135,8 @@
     "transHi": "अन नास",
     "transPr": "ناس",
     "transEn": "Mankind",
-    "transliteration": "An-Nas"
-  } 
+    "transliteration": "An-Nas",
+    "versesCount": 6,
+    "revelationType": "Meccan"
+  }
 ]
